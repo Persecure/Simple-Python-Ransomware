@@ -1,4 +1,3 @@
-# Simple Python Ransomware
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong>Introduction</strong></p>
 <!-- /wp:paragraph -->
@@ -275,8 +274,8 @@ for file in files:
 <figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-32.png?w=699" alt="" class="wp-image-4050"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p><strong><em>**Before running the decrypt program , remember to add decrypt.py file to the file list**</em></strong></p>
+<!-- wp:paragraph {"backgroundColor":"vivid-red"} -->
+<p class="has-vivid-red-background-color has-background"><strong><em>**Before running the decrypt program , remember to add decrypt.py file in the encrypt.py file list**</em></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4045,"sizeSlug":"large","linkDestination":"none"} -->
@@ -326,4 +325,12 @@ for file in files:
 
 <!-- wp:image {"id":4047,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-31.png?w=1024" alt="" class="wp-image-4047"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Let's test the entire process again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4064,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-33.png?w=1024" alt="" class="wp-image-4064"/></figure>
 <!-- /wp:image -->
