@@ -8,7 +8,7 @@ from cryptography.fernet import Fernet
 files = []
 
 for file in os.listdir():
-        if file == 'encrypt.py'or file == 'encrypt.key':   # Not to decrypt the actual program
+        if file == 'encrypt.py'or file == 'encrypt.key' or file == 'decrypt.py':   # Not to decrypt the actual program
                 continue
         if os.path.isfile(file):                           # Append any text files to the list
                 files.append(file)
