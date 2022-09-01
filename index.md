@@ -24,9 +24,31 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p>The program is conducted in the Linux environment and it is advisable to test this program in a virtual machine.</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Prerequisites</strong></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>The program is conducted in the Linux environment </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Only test the program in a virtual machine setting</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Please do not run the encryption program multiple times before decryption as this will generate new encryption keys and the files will be lost forever</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>This is a simple ransomware and will not be able to bypass AV</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Key can be obtained by reverse engineering</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
